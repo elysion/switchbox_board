@@ -1,0 +1,33 @@
+{
+    "packages": [
+      {
+        "name": "switchbox",
+        "maintainer": "Gadgetmies",
+        "websiteURL": "http://gadgetmies.ddns.net/",
+        "email": "gadgetmies@gmail.com",
+        "help": {
+          "online": "https://github.com/elysion/switchbox_board"
+        },
+        "platforms": [
+          {
+            "name": "switchbox Boards",
+            "architecture": "avr",
+            "version": "1.0.0",
+            "category": "Contributed",
+            "help": {
+              "online": "https://github.com/elysion/switchbox_board"
+            },
+            "url": "https://github.com/elysion/switchbox_board/releases/download/v1.0.0/switchbox-1.0.0.zip",
+            "archiveFileName": "switchbox-1.0.0.zip",
+            "checksum": "SHA-256:7e2e264fb66773ffa534d120d305d31b778dd89ce1765e71be4efd9b6dd74914",
+            "size": "213841",
+            "boards": [
+              {"name": "Switchbox"}
+            ],
+            "toolsDependencies": []
+          }
+        ],
+        "tools": []
+      }
+    ]
+  }
